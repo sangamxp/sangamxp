@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sangamxp
-- 👀 I’m interested in learining
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning security
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me dont
